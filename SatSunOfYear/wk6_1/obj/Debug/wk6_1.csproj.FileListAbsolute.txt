@@ -1,0 +1,10 @@
+c:\users\rmu\source\repos\wk6_1\wk6_1\bin\Debug\wk6_1.exe.config
+c:\users\rmu\source\repos\wk6_1\wk6_1\bin\Debug\wk6_1.exe
+c:\users\rmu\source\repos\wk6_1\wk6_1\bin\Debug\wk6_1.pdb
+c:\users\rmu\source\repos\wk6_1\wk6_1\obj\Debug\wk6_1.csprojResolveAssemblyReference.cache
+c:\users\rmu\source\repos\wk6_1\wk6_1\obj\Debug\wk6_1.Form1.resources
+c:\users\rmu\source\repos\wk6_1\wk6_1\obj\Debug\wk6_1.Properties.Resources.resources
+c:\users\rmu\source\repos\wk6_1\wk6_1\obj\Debug\wk6_1.csproj.GenerateResource.Cache
+c:\users\rmu\source\repos\wk6_1\wk6_1\obj\Debug\wk6_1.csproj.CoreCompileInputs.cache
+c:\users\rmu\source\repos\wk6_1\wk6_1\obj\Debug\wk6_1.exe
+c:\users\rmu\source\repos\wk6_1\wk6_1\obj\Debug\wk6_1.pdb

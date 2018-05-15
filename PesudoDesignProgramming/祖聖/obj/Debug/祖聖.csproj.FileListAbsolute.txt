@@ -1,0 +1,7 @@
+C:\Users\Rmu\source\repos\祖聖\祖聖\bin\Debug\祖聖.exe.config
+C:\Users\Rmu\source\repos\祖聖\祖聖\bin\Debug\祖聖.exe
+C:\Users\Rmu\source\repos\祖聖\祖聖\bin\Debug\祖聖.pdb
+C:\Users\Rmu\source\repos\祖聖\祖聖\obj\Debug\祖聖.csprojResolveAssemblyReference.cache
+C:\Users\Rmu\source\repos\祖聖\祖聖\obj\Debug\祖聖.csproj.CoreCompileInputs.cache
+C:\Users\Rmu\source\repos\祖聖\祖聖\obj\Debug\祖聖.exe
+C:\Users\Rmu\source\repos\祖聖\祖聖\obj\Debug\祖聖.pdb
