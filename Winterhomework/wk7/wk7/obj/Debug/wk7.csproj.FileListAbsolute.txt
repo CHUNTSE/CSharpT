@@ -1,0 +1,7 @@
+C:\Users\Rmu\source\repos\wk7\wk7\bin\Debug\wk7.exe.config
+C:\Users\Rmu\source\repos\wk7\wk7\bin\Debug\wk7.exe
+C:\Users\Rmu\source\repos\wk7\wk7\bin\Debug\wk7.pdb
+C:\Users\Rmu\source\repos\wk7\wk7\obj\Debug\wk7.csprojResolveAssemblyReference.cache
+C:\Users\Rmu\source\repos\wk7\wk7\obj\Debug\wk7.csproj.CoreCompileInputs.cache
+C:\Users\Rmu\source\repos\wk7\wk7\obj\Debug\wk7.exe
+C:\Users\Rmu\source\repos\wk7\wk7\obj\Debug\wk7.pdb

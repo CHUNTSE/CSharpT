@@ -1,0 +1,14 @@
+C:\Chu2018\Chu2018WinterVacationHomeworks\StringInverted\bin\Debug\StringInverted.exe.config
+C:\Chu2018\Chu2018WinterVacationHomeworks\StringInverted\bin\Debug\StringInverted.exe
+C:\Chu2018\Chu2018WinterVacationHomeworks\StringInverted\bin\Debug\StringInverted.pdb
+C:\Chu2018\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.csproj.CoreCompileInputs.cache
+C:\Chu2018\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.exe
+C:\Chu2018\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.pdb
+C:\Chu2018\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.csprojResolveAssemblyReference.cache
+C:\Users\Rmu\Desktop\Bill\Chu2018WinterVacationHomeworks\StringInverted\bin\Debug\StringInverted.exe.config
+C:\Users\Rmu\Desktop\Bill\Chu2018WinterVacationHomeworks\StringInverted\bin\Debug\StringInverted.exe
+C:\Users\Rmu\Desktop\Bill\Chu2018WinterVacationHomeworks\StringInverted\bin\Debug\StringInverted.pdb
+C:\Users\Rmu\Desktop\Bill\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.csprojResolveAssemblyReference.cache
+C:\Users\Rmu\Desktop\Bill\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.csproj.CoreCompileInputs.cache
+C:\Users\Rmu\Desktop\Bill\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.exe
+C:\Users\Rmu\Desktop\Bill\Chu2018WinterVacationHomeworks\StringInverted\obj\Debug\StringInverted.pdb

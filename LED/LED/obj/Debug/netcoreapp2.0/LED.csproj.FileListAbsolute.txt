@@ -1,0 +1,11 @@
+c:\users\rmu\source\repos\LED\LED\bin\Debug\netcoreapp2.0\LED.deps.json
+c:\users\rmu\source\repos\LED\LED\bin\Debug\netcoreapp2.0\LED.runtimeconfig.json
+c:\users\rmu\source\repos\LED\LED\bin\Debug\netcoreapp2.0\LED.runtimeconfig.dev.json
+c:\users\rmu\source\repos\LED\LED\bin\Debug\netcoreapp2.0\LED.dll
+c:\users\rmu\source\repos\LED\LED\bin\Debug\netcoreapp2.0\LED.pdb
+c:\users\rmu\source\repos\LED\LED\obj\Debug\netcoreapp2.0\LED.csprojResolveAssemblyReference.cache
+c:\users\rmu\source\repos\LED\LED\obj\Debug\netcoreapp2.0\LED.csproj.CoreCompileInputs.cache
+c:\users\rmu\source\repos\LED\LED\obj\Debug\netcoreapp2.0\LED.AssemblyInfoInputs.cache
+c:\users\rmu\source\repos\LED\LED\obj\Debug\netcoreapp2.0\LED.AssemblyInfo.cs
+c:\users\rmu\source\repos\LED\LED\obj\Debug\netcoreapp2.0\LED.dll
+c:\users\rmu\source\repos\LED\LED\obj\Debug\netcoreapp2.0\LED.pdb

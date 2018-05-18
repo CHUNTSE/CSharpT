@@ -1,0 +1,14 @@
+C:\Users\Rmu\source\repos\wk4\wk4\bin\Debug\wk4.exe.config
+C:\Users\Rmu\source\repos\wk4\wk4\bin\Debug\wk4.exe
+C:\Users\Rmu\source\repos\wk4\wk4\bin\Debug\wk4.pdb
+C:\Users\Rmu\source\repos\wk4\wk4\obj\Debug\wk4.csprojResolveAssemblyReference.cache
+C:\Users\Rmu\source\repos\wk4\wk4\obj\Debug\wk4.csproj.CoreCompileInputs.cache
+C:\Users\Rmu\source\repos\wk4\wk4\obj\Debug\wk4.exe
+C:\Users\Rmu\source\repos\wk4\wk4\obj\Debug\wk4.pdb
+C:\Users\Rmu\Desktop\寒假作業\wk4\wk4\bin\Debug\wk4.exe.config
+C:\Users\Rmu\Desktop\寒假作業\wk4\wk4\bin\Debug\wk4.exe
+C:\Users\Rmu\Desktop\寒假作業\wk4\wk4\bin\Debug\wk4.pdb
+C:\Users\Rmu\Desktop\寒假作業\wk4\wk4\obj\Debug\wk4.csprojResolveAssemblyReference.cache
+C:\Users\Rmu\Desktop\寒假作業\wk4\wk4\obj\Debug\wk4.csproj.CoreCompileInputs.cache
+C:\Users\Rmu\Desktop\寒假作業\wk4\wk4\obj\Debug\wk4.exe
+C:\Users\Rmu\Desktop\寒假作業\wk4\wk4\obj\Debug\wk4.pdb

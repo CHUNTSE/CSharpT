@@ -1,0 +1,14 @@
+C:\DemoCode\Chu2018WinterVacationHomeworks\OddAndEven\bin\Debug\OddAndEven.exe.config
+C:\DemoCode\Chu2018WinterVacationHomeworks\OddAndEven\bin\Debug\OddAndEven.exe
+C:\DemoCode\Chu2018WinterVacationHomeworks\OddAndEven\bin\Debug\OddAndEven.pdb
+C:\DemoCode\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.csprojResolveAssemblyReference.cache
+C:\DemoCode\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.csproj.CoreCompileInputs.cache
+C:\DemoCode\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.exe
+C:\DemoCode\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.pdb
+C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEven\bin\Debug\OddAndEven.exe.config
+C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEven\bin\Debug\OddAndEven.exe
+C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEven\bin\Debug\OddAndEven.pdb
+C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.csprojResolveAssemblyReference.cache
+C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.csproj.CoreCompileInputs.cache
+C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.exe
+C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEven\obj\Debug\OddAndEven.pdb
