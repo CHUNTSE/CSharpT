@@ -1,0 +1,7 @@
+c:\users\rmu\source\repos\wk1\wk1\bin\Debug\wk1.exe.config
+c:\users\rmu\source\repos\wk1\wk1\bin\Debug\wk1.exe
+c:\users\rmu\source\repos\wk1\wk1\bin\Debug\wk1.pdb
+c:\users\rmu\source\repos\wk1\wk1\obj\Debug\wk1.csprojResolveAssemblyReference.cache
+c:\users\rmu\source\repos\wk1\wk1\obj\Debug\wk1.csproj.CoreCompileInputs.cache
+c:\users\rmu\source\repos\wk1\wk1\obj\Debug\wk1.exe
+c:\users\rmu\source\repos\wk1\wk1\obj\Debug\wk1.pdb

@@ -1,0 +1,6 @@
+c:\users\rmu\source\repos\ck3\ck3\bin\Debug\ck3.exe.config
+c:\users\rmu\source\repos\ck3\ck3\bin\Debug\ck3.exe
+c:\users\rmu\source\repos\ck3\ck3\bin\Debug\ck3.pdb
+c:\users\rmu\source\repos\ck3\ck3\obj\Debug\ck3.csproj.CoreCompileInputs.cache
+c:\users\rmu\source\repos\ck3\ck3\obj\Debug\ck3.exe
+c:\users\rmu\source\repos\ck3\ck3\obj\Debug\ck3.pdb

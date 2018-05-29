@@ -1,0 +1,7 @@
+C:\Users\Rmu\source\repos\wk2\wk2\bin\Debug\wk2.exe.config
+C:\Users\Rmu\source\repos\wk2\wk2\bin\Debug\wk2.exe
+C:\Users\Rmu\source\repos\wk2\wk2\bin\Debug\wk2.pdb
+C:\Users\Rmu\source\repos\wk2\wk2\obj\Debug\wk2.csproj.CoreCompileInputs.cache
+C:\Users\Rmu\source\repos\wk2\wk2\obj\Debug\wk2.exe
+C:\Users\Rmu\source\repos\wk2\wk2\obj\Debug\wk2.pdb
+C:\Users\Rmu\source\repos\wk2\wk2\obj\Debug\wk2.csprojResolveAssemblyReference.cache
