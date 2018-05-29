@@ -1,6 +1,0 @@
-C:\Users\Rmu\source\repos\wk5\wk5\bin\Debug\wk5.exe.config
-C:\Users\Rmu\source\repos\wk5\wk5\bin\Debug\wk5.exe
-C:\Users\Rmu\source\repos\wk5\wk5\bin\Debug\wk5.pdb
-C:\Users\Rmu\source\repos\wk5\wk5\obj\Debug\wk5.csproj.CoreCompileInputs.cache
-C:\Users\Rmu\source\repos\wk5\wk5\obj\Debug\wk5.exe
-C:\Users\Rmu\source\repos\wk5\wk5\obj\Debug\wk5.pdb

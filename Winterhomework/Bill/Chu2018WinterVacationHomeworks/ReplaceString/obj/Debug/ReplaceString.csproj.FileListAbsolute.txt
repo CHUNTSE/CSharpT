@@ -1,7 +1,0 @@
-C:\Chu2018\Chu2018WinterVacationHomeworks\ReplaceString\bin\Debug\ReplaceString.exe.config
-C:\Chu2018\Chu2018WinterVacationHomeworks\ReplaceString\bin\Debug\ReplaceString.exe
-C:\Chu2018\Chu2018WinterVacationHomeworks\ReplaceString\bin\Debug\ReplaceString.pdb
-C:\Chu2018\Chu2018WinterVacationHomeworks\ReplaceString\obj\Debug\ReplaceString.csprojResolveAssemblyReference.cache
-C:\Chu2018\Chu2018WinterVacationHomeworks\ReplaceString\obj\Debug\ReplaceString.csproj.CoreCompileInputs.cache
-C:\Chu2018\Chu2018WinterVacationHomeworks\ReplaceString\obj\Debug\ReplaceString.exe
-C:\Chu2018\Chu2018WinterVacationHomeworks\ReplaceString\obj\Debug\ReplaceString.pdb

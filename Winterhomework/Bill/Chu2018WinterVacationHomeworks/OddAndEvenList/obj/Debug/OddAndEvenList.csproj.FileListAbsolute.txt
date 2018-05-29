@@ -1,7 +1,0 @@
-C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEvenList\bin\Debug\OddAndEvenList.exe.config
-C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEvenList\bin\Debug\OddAndEvenList.exe
-C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEvenList\bin\Debug\OddAndEvenList.pdb
-C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEvenList\obj\Debug\OddAndEvenList.csprojResolveAssemblyReference.cache
-C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEvenList\obj\Debug\OddAndEvenList.csproj.CoreCompileInputs.cache
-C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEvenList\obj\Debug\OddAndEvenList.exe
-C:\Chu2018\Chu2018WinterVacationHomeworks\OddAndEvenList\obj\Debug\OddAndEvenList.pdb
