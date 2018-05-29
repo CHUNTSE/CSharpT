@@ -1,0 +1,10 @@
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\bin\Debug\wk6.exe.config
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\bin\Debug\wk6.exe
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\bin\Debug\wk6.pdb
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\obj\Debug\wk6.csprojResolveAssemblyReference.cache
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\obj\Debug\wk6.Form1.resources
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\obj\Debug\wk6.Properties.Resources.resources
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\obj\Debug\wk6.csproj.GenerateResource.cache
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\obj\Debug\wk6.csproj.CoreCompileInputs.cache
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\obj\Debug\wk6.exe
+C:\Users\Rmu\Desktop\寒假作業\wk6_1\wk6_1\obj\Debug\wk6.pdb
